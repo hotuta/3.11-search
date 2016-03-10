@@ -1,8 +1,12 @@
 # 3.11-search
-3.11と検索して復興支援のために寄付するためのスクリプト
+3.11と検索して復興支援のために寄付するためのスクリプト  
+
+
+震災から5年、いま応援できること。 - Yahoo! JAPAN  
+http://fukko.yahoo.co.jp/
 
 # 使い方
-Ruby突っ込んでSelenium動くようにしてChromeDriver突っ込めば動く(悪用防止の為、詳細は割愛)。
+Ruby突っ込んでSelenium動くようにしてChromeDriver突っ込めば動く(悪用防止の為、詳細は割愛)
 
 # きっかけ
 
@@ -15,9 +19,9 @@ Ruby突っ込んでSelenium動くようにしてChromeDriver突っ込めば動�
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="zh" dir="ltr">平和的利用</p>&mdash; みゑふぃーゆ。 (@MieFy_LemonCake) <a href="https://twitter.com/MieFy_LemonCake/status/707958426823892992">2016, 3月 10</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## ※悪用厳禁
+### ※悪用厳禁
 
-→あくまでもネタ
+あくまでもネタ
 
 #ライセンス
 MIT
