@@ -7,7 +7,7 @@ http://fukko.yahoo.co.jp/
 
 # もっとまともに作ってくれた人が登場←New
 
-検索は応援になる
+検索は応援になる  
 https://gist.github.com/kumagi/0457c38dd9fa0e8437fe
 
 # 使い方
