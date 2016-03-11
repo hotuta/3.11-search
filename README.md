@@ -5,8 +5,13 @@
 震災から5年、いま応援できること。 - Yahoo! JAPAN  
 http://fukko.yahoo.co.jp/
 
+# もっとまともに作ってくれた人が登場←New
+
+検索は応援になる
+https://gist.github.com/kumagi/0457c38dd9fa0e8437fe
+
 # 使い方
-Ruby突っ込んでSelenium動くようにしてChromeDriver突っ込めば動く(悪用防止の為、詳細は割愛)
+Ruby突っ込んでSeleniumを動くようにしてChromeDriver突っ込めば動く(悪用防止の為、詳細は割愛)
 
 # きっかけ
 
